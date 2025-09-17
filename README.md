@@ -1,4 +1,4 @@
-# Sales-Dash-board
+# Sales-Dash board
 Sales Dash board using pivot Table and pivot charts
 Just completed a comprehensive Sales Analytics Dashboard using advanced Excel pivot tables and pivot charts.
 reveals:
