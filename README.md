@@ -2,7 +2,6 @@
 Sales Dash board using pivot Table and pivot charts
 Just completed a comprehensive Sales Analytics Dashboard using advanced Excel pivot tables and pivot charts.
 reveals:
- (KPIs):
 Total Sales: $2,297,201 
 Total Profit: $286,397 
 Total Quantity Sold: 37,873 units 
@@ -22,8 +21,8 @@ Automated calculations for profit margins and growth rates
 Cross-tabulation analysis for deeper insights
 Business Impact:
 This dashboard enables stakeholders to:
-✅ Identify top-performing products and regions
-✅ Track seasonal trends for inventory planning
-✅ Optimize discount strategies based on performance data
-✅ Make data-driven decisions for resource allocation
+ Identify top-performing products and regions - 
+ Track seasonal trends for inventory planning - 
+ Optimize discount strategies based on performance data - 
+ Make data-driven decisions for resource allocation - 
 
